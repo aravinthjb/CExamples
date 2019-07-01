@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Ouput Additional Files
+*.ilk
+*.pdb
